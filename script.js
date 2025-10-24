@@ -61,3 +61,13 @@ searchbtn.addEventListener("click", () => {
     inputCity.value = "";
   }
 });
+
+
+/*
+const heading = document.querySelector(".heading");
+const refreshBtn = document.querySelector(".refresh-btn");
+const nextBtn = document.querySelector(".next-btn");
+const searchBtn = document.querySelector(".search-btn");
+
+
+*/
